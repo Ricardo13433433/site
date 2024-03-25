@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--<link rel="shortcut icon" href="ICONE.ico" type="Aula-03/ICONE"> -->
+    <link rel="stylesheet" type = "text/css" href="style.css">
+
+
+
+    <img src="img.css/images.png" alt="logo do Newton">
+    
+
+    <title>BLEACH</title>
+</head>
+<body>
+    <h1>HISTORIA DE BLEACH</h1>
+    
+    <h3>Aqui eu vou explicar sobre a historia de BLEACH
+        para conseguir coompreender melhor o anime BLEACH
+
+    </h3>
+    
+    A
+    
+    
+    
+    
+        
+        <P></P>     
+
+
+        <table class ="table table-hover table-dark">         
+           <thead>
+            <tr>  
+                <th colspan="5">HORÁRIO DA SEMANA</th>
+           </tr>
+           </thead>
+
+           <li>Shikai</li>
+        <a href="shikia.html" target="_blank">Aqui voçe aprendera sobre shikai</a>
+    
+        <li>Bankai</li>
+        <a href="bankai.html" target="_blank">Aqui voçe aprendera sobre Bankai</a>
+    
+   
+        <li>Urahara kisuke</li>
+        <a href="uraharra.html" target="_blank">Aqui voçe vera um exemplo de ambos em um personagem</a>
+        
+    
+
+
+
+
+
+       
+    <p></p>
+    </ol>
+        
+    
+   
+    
+    
+</body>
+</html>
